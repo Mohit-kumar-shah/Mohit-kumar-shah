@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaim</h1>
+<h1 align="center">Hi 👋, I'm Alain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-kumar-shah&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-kumar-shah" /> </p>
